@@ -3,7 +3,12 @@ Apache Death Squad is an 'arcade arena-based aerial combat themed hat simulator'
 Goals:
 
 1.  Understanding 3D in XNA
-2.  3D player
+2.  3D player{
+      Basic game engin 
+      Physics
+      player modle 
+      fixed camra
+    }
 3.  AI
 4.  3D environment
 5.  Level design
